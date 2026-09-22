@@ -68,6 +68,7 @@ Landing pages and interactive front-end experiences.
 - **[Monster-Energy-Drink](https://github.com/DexAi3000/Monster-Energy-Drink)** — product landing page
 - **[foldcraft](https://github.com/DexAi3000/foldcraft)** — fullscreen hero landing page for a creative studio with a cinematic looping video background (React + Tailwind CSS)
 - **[scroll-tied-video-section](https://github.com/DexAi3000/scroll-tied-video-section)** — scroll-driven cinematic video section with frame-accurate scrubbing via WebCodecs (React + TypeScript + Tailwind)
+- **[microvisuals-hero](https://github.com/DexAi3000/microvisuals-hero)** — fullscreen AI hero landing page with a frame-captured boomerang video background, liquid-glass nav, and gsap cursor parallax (React + TypeScript + Vite + Tailwind)
 
 ## 🤖 Automation
 

@@ -67,6 +67,7 @@ Landing pages and interactive front-end experiences.
 - **[skyelite-jet-landing](https://github.com/DexAi3000/skyelite-jet-landing)** — full-bleed video hero landing page for a private jet charter brand (React + TypeScript + Vite + Tailwind)
 - **[Monster-Energy-Drink](https://github.com/DexAi3000/Monster-Energy-Drink)** — product landing page
 - **[foldcraft](https://github.com/DexAi3000/foldcraft)** — fullscreen hero landing page for a creative studio with a cinematic looping video background (React + Tailwind CSS)
+- **[scroll-tied-video-section](https://github.com/DexAi3000/scroll-tied-video-section)** — scroll-driven cinematic video section with frame-accurate scrubbing via WebCodecs (React + TypeScript + Tailwind)
 
 ## 🤖 Automation
 

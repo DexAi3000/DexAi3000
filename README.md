@@ -66,6 +66,7 @@ Landing pages and interactive front-end experiences.
 - **[nival-cyberspace-identity](https://github.com/DexAi3000/nival-cyberspace-identity)** — single-file landing page with a cursor-following spotlight reveal effect
 - **[skyelite-jet-landing](https://github.com/DexAi3000/skyelite-jet-landing)** — full-bleed video hero landing page for a private jet charter brand (React + TypeScript + Vite + Tailwind)
 - **[Monster-Energy-Drink](https://github.com/DexAi3000/Monster-Energy-Drink)** — product landing page
+- **[foldcraft](https://github.com/DexAi3000/foldcraft)** — fullscreen hero landing page for a creative studio with a cinematic looping video background (React + Tailwind CSS)
 
 ## 🤖 Automation
 

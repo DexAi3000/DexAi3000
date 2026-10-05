@@ -71,6 +71,7 @@ Landing pages and interactive front-end experiences.
 - **[microvisuals-hero](https://github.com/DexAi3000/microvisuals-hero)** — fullscreen AI hero landing page with a frame-captured boomerang video background, liquid-glass nav, and gsap cursor parallax (React + TypeScript + Vite + Tailwind)
 - **[spaceedu-hero](https://github.com/DexAi3000/spaceedu-hero)** — cinematic full-viewport space hero section with a reversible Earth/Venus/Mars planet switcher, video backgrounds, and a pixel-faithful `--u`-unit responsive design system (single-file HTML/CSS/JS)
 - **[vex-hero](https://github.com/DexAi3000/vex-hero)** — cinematic full-screen hero for a venture studio brand with a raw autoplay video background, liquid-glass navbar/buttons, and a character-by-character animated headline (React + TypeScript + Vite + Tailwind)
+- **[shadow-current](https://github.com/DexAi3000/shadow-current)** — single-file landing page with a full-bleed hero video that tilts in real 3D toward the cursor, a pulsing energy glow, and a liquid-glass card/footer system
 
 ## 🤖 Automation
 

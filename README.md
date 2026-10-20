@@ -74,6 +74,7 @@ Landing pages and interactive front-end experiences.
 - **[shadow-current](https://github.com/DexAi3000/shadow-current)** — single-file landing page with a full-bleed hero video that tilts in real 3D toward the cursor, a pulsing energy glow, and a liquid-glass card/footer system
 - **[spiderman-neural-web](https://github.com/DexAi3000/spiderman-neural-web)** — cinematic scroll-driven Spider-Man hero landing page with a lerp-smoothed face-to-mask scroll transition and a frame-sequence canvas scrubber (no video seek stutter), single-file HTML/CSS/JS
 - **[wayne-two-faces-of-gotham](https://github.com/DexAi3000/wayne-two-faces-of-gotham)** — cinematic dual-persona landing page for "WAYNE" (Bruce Wayne / Dark Knight) with animated live-data stats and a falling-money particle effect, single-file HTML/CSS/JS
+- **[scoopberry-gelato](https://github.com/DexAi3000/scoopberry-gelato)** — playful cinematic gelato landing page: real AI-video cone cut-outs, a 5-flavor circle-wipe theme switcher, and 96fps scroll-scrubbed video stories, GSAP + Lenis
 
 ## 🤖 Automation
 
